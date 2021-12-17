@@ -1,0 +1,426 @@
+{
+	"_id": "615efc7ffa42a66b2670c352",
+	"gateway": "Shopify",
+	"order_id": "4132556734660",
+	"order_date": "2021-10-07T12:52:58.000Z",
+	"order_number": "1047",
+	"order_source": "my_easy_monogram",
+	"order_correlation_id": "4132556734660",
+	"order_status": "order_placed",
+	"order_updated_at": "2021-10-13T01:47:37.805Z",
+	"customer_name": "BonnieCrihfield",
+	"customer_email": "bfarrar1121@gmail.com",
+	"fulfillment_status": "unfulfilled",
+	"status": "Active",
+	"line_item": {
+		"title": "ElaborateSplitLetterFamilyName-SteelSign",
+		"base_price": 34,
+		"shipping_cost": 13.0,
+		"price": 54.95,
+		"sku": "MU-C109-00-24-Black-MildSteel-0.06-1",
+		"image": "https://prodmyeasymonogram.s3.us-east-2.amazonaws.com/Product/01+-+Product+Variant+Images/01+-+White+Backdrop/MU-C109-00-Black.png",
+		"option_1": "color",
+		"option_2": "size",
+		"option_3": null,
+		"option_value_1": "Black",
+		"option_value_2": "24",
+		"option_value_3": null,
+		"product_variant_id": "3617833448",
+		"tags": "MEAD,Steel",
+		"vendor": "MyEasyMonogram",
+		"production_data": {
+			"product_type": "steel monogram",
+			"part_file_name": "MU-C109-00",
+			"geoPath": "\\\\192.168.1.145\\MyEasySuite\\AutoDesign\\DXFFiles\\4132556734660-2-2.dxf",
+			"geoType": "DXF",
+			"manufacturing_time": 213,
+			"material": "MildSteel",
+			"thickness": "0.06"
+		},
+		"personalization": [{
+			"Top Text": {
+				"field_type": "input",
+				"field_value": "BRADLEY",
+				"is_required": true,
+				"field_length": "20",
+				"field_pattern": "^[a-zA-Z0-9\\s!?:.\\'()&$%/*$",
+				"pattern_message": "A-Z0-9().'&$%#@/",
+				"validation_status": "success"
+			},
+			"Middle Text": {
+				"field_type": "input",
+				"field_value": "WILLIAM",
+				"is_required": true,
+				"field_length": "20",
+				"capitalized": true,
+				"field_pattern": "^[a-zA-Z0-9\\s!?:.\\'()&$%/*$",
+				"pattern_message": "A-Z0-9().'&$%#@/",
+				"validation_status": "success"
+			},
+			"Bottom Text": {
+				"field_type": "input",
+				"field_value": "FERCH",
+				"is_required": true,
+				"field_length": "20",
+				"capitalized": true,
+				"field_pattern": "^[a-zA-Z0-9\\s!?:.\\'()&$%/*$",
+				"pattern_message": "A-Z0-9().'&$%#@/",
+				"validation_status": "success"
+			},
+			"Initial": {
+				"field_type": "dropdownlist",
+				"field_value": "B",
+				"is_required": true,
+				"capitalized": true,
+				"option_list": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z",
+				"validation_status": "success"
+			}
+		}],
+		"3pm": {
+			"companyCode": "SOUTHERN_DESIGNS",
+			"companyRouteTemplateId": 1,
+			"routeTemplateId": 68,
+			"routeTemplateName": "CustomizedMildSteelDecor(PowderCoated)",
+			"parts": [{
+				"_id": "6166229c24d1d8004a7faa97",
+				"id": 79492,
+				"part_name": "4132556734660-1-1",
+				"key": "ORDER:1047-4132556734660:ITEMS:2:LINE:2:QTY:2:DETAIL:1",
+				"detailOrderNumber": null,
+				"orderLineItemsCount": "1",
+				"orderLineNumber": "1",
+				"imageUrl": "https://stmesprod001.blob.core.windows.net/partfiles/2021_10_08728383ec-06c8-4036-8297-9c36c31d60be.png",
+				"status": "Original",
+				"priority": 2,
+				"stageId": 68,
+				"stageName": "PowdercoatLoading",
+				"workstationId": null,
+				"workstationName": null,
+				"nestId": 2224,
+				"nestName": "6\\6777",
+				"productionOrderId": 701,
+				"importDate": "2021-10-08T08:11:59.230037",
+				"iteration": 0,
+				"originalPartName": "4132556734660-2-2",
+				"location": "PALLET20",
+				"weight": {
+					"value": 20.00,
+					"unit": "ounce"
+				},
+				"dimensions": {
+					"unit": "inch",
+					"length": 0.0,
+					"width": 0.0,
+					"height": 0.0
+				},
+				"cost": {
+					"status": "in production",
+					"manufacturing_cost": "7.95",
+					"payment_status": "unpaid",
+					"transaction_id": null,
+					"transaction_status": null
+				},
+				"created_at": "2021-10-05T22:41:49.547Z",
+				"updated_at": "2021-10-05T22:41:49.547Z",
+				"events": 
+                [
+                    {
+						"id": 1240129,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "Imported",
+						"eventDetails": "{\"lineItem\":{\"key\":\"ORDER:1047-4132556734660:ITEMS:2:LINE:2:QTY:2:DETAIL:1\",\"orderLineItemsCount\":\"2\",\"orderLineNumber\":\"2\",\"quantity\":\"1\",\"detail\":\"1\",\"partName\":\"4132556734660-2-2\",\"color\":\"Black\",\"designVariant\":null,\"size\":\"24\",\"materialSet\":\"MildSteel\",\"thickness\":\"0.06\",\"merchant\":\"Metalglamour\",\"orderDate\":\"2021-10-07T12:52:58.000Z\",\"geoType\":\"DXF\",\"geoPath\":\"\",\"orderNumber\":\"1047\",\"shopifyOrderId\":\"4132556734660\",\"shipstationOrderId\":null,\"shipstationOrderKey\":null,\"itemName\":\"ElaborateSplitLetterFamilyName-SteelSign\",\"partFile\":\"MU-C109-00\",\"projectSum\":\"multi\",\"orderSum\":\"multi\",\"detailOrderNumber\":null,\"options\":\"{\\\"Segments\\\":[{\\\"OptionName\\\":\\\"VariantPartMetadata\\\",\\\"SerializedOptionValue\\\":\\\"{\\\\\\\"TextOptions\\\\\\\":[{\\\\\\\"FeatureName\\\\\\\":\\\\\\\"optionalTextFeature1\\\\\\\",\\\\\\\"Text\\\\\\\":\\\\\\\"KEITH&BONNIE\\\\\\\"},{\\\\\\\"FeatureName\\\\\\\":\\\\\\\"optionalTextFeature2\\\\\\\",\\\\\\\"Text\\\\\\\":\\\\\\\"FARRAR\\\\\\\"},{\\\\\\\"FeatureName\\\\\\\":\\\\\\\"optionalTextFeature3\\\\\\\",\\\\\\\"Text\\\\\\\":\\\\\\\"10.21.2017\\\\\\\"}],\\\\\\\"VariantOptions\\\\\\\":[{\\\\\\\"FeatureName\\\\\\\":\\\\\\\"optionalVariantFeature1\\\\\\\",\\\\\\\"Variant\\\\\\\":\\\\\\\"E\\\\\\\"}],\\\\\\\"OptionName\\\\\\\":\\\\\\\"VariantPartMetadata\\\\\\\"}\\\"}]}\",\"sku\":\"MU-C109-00-24-Black-MildSteel-0.06-1\",\"companyRouteTemplateId\":1,\"tags\":\"MEAD,Steel\",\"priority\":2,\"generatedPreviewImage\":\"\"}}",
+						"timestamp": "2021-10-08T08:11:59.5783924",
+						"userEmail": "TdgGHKZ9ZENW4tj2nqkBB40uWrIGK63S@clients",
+						"event": "10/8/20218:11:59AM4132556734660-2-2ImportedbyMyEasyECOMMERCEServiceformanufacturerSOUTHERN_DESIGNSfromtheECommerceModule.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1240130,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToStage",
+						"eventDetails": "{\"destination\":\"Design\"}",
+						"timestamp": "2021-10-08T08:11:59.58597",
+						"userEmail": "TdgGHKZ9ZENW4tj2nqkBB40uWrIGK63S@clients",
+						"event": "10/8/20218:11:59AM4132556734660-2-2SentToStage'Design'byMyEasyECOMMERCEServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241021,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "GeoPathUpdated",
+						"eventDetails": "{\"geoPath\":\"\\\\\\\\192.168.1.145\\\\MyEasySuite\\\\AutoDesign\\\\DXFFiles\\\\4132556734660-2-2.dxf\"}",
+						"timestamp": "2021-10-08T15:42:49.5774186",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/8/20213:42:49PM4132556734660-2-2GeoPathUpdatedto'\\\\192.168.1.145\\MyEasySuite\\AutoDesign\\DXFFiles\\4132556734660-2-2.dxf'byMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241022,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "CompletedAutoDesign",
+						"eventDetails": "{}",
+						"timestamp": "2021-10-08T15:42:49.6179786",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/8/20213:42:49PM4132556734660-2-2CompletedAutoDesignbyMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241023,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToStage",
+						"eventDetails": "{\"destination\":\"PendingProduction\"}",
+						"timestamp": "2021-10-08T15:42:49.6262696",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/8/20213:42:49PM4132556734660-2-2SentToStage'PendingProduction'byMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241024,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "ImageAttached",
+						"eventDetails": "{\"imageUrl\":\"https://stmesprod001.blob.core.windows.net/partfiles/2021_10_08728383ec-06c8-4036-8297-9c36c31d60be.png\"}",
+						"timestamp": "2021-10-08T15:42:50.0961649",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/8/20213:42:50PM4132556734660-2-2ImageAttachedbyMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241363,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToStage",
+						"eventDetails": "{\"destination\":\"Nesting\"}",
+						"timestamp": "2021-10-08T20:36:40.8643506",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/8/20218:36:40PM4132556734660-2-2SentToStage'Nesting'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1241375,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "AddedToProductionOrder",
+						"eventDetails": "{\"productionOrder\":\"10-8-20213.36.40178msPM\"}",
+						"timestamp": "2021-10-08T20:36:40.8575419",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/8/20218:36:40PM4132556734660-2-2AddedToProductionOrder'10-8-20213.36.40178msPM'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1242706,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "AddedToNest",
+						"eventDetails": "{\"nestName\":\"6\\\\6777\"}",
+						"timestamp": "2021-10-11T12:45:59.7784355",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/11/202112:45:59PM4132556734660-2-2AddedToNest'6\\6777'byMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1242718,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToStage",
+						"eventDetails": "{\"destination\":\"Laser\"}",
+						"timestamp": "2021-10-11T12:45:59.8840233",
+						"userEmail": "4nuEGfChZnothIk7n3ouDzNDpI1GHD37@clients",
+						"event": "10/11/202112:45:59PM4132556734660-2-2SentToStage'Laser'byMyEasyMFGServiceformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1246697,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToWorkstation",
+						"eventDetails": "{\"workstation\":\"Laser4\"}",
+						"timestamp": "2021-10-11T20:08:50.0413143",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/11/20218:08:50PM4132556734660-2-2SentToWorkstation'Laser4'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1247607,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "LocationMarked",
+						"eventDetails": "{\"location\":\"PALLET20\"}",
+						"timestamp": "2021-10-11T22:22:30.4890521",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/11/202110:22:30PM4132556734660-2-2LocationMarkedas'PALLET20'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1247629,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "ReleasedFromWorkstation",
+						"eventDetails": "{\"workstation\":\"Laser4\"}",
+						"timestamp": "2021-10-11T22:23:25.6861206",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/11/202110:23:25PM4132556734660-2-2ReleasedFromWorkstation'Laser4'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					},
+					{
+						"id": 1247640,
+						"partId": 79492,
+						"partName": "4132556734660-2-2",
+						"eventType": "SentToStage",
+						"eventDetails": "{\"destination\":\"PowdercoatLoading\"}",
+						"timestamp": "2021-10-11T22:23:25.687954",
+						"userEmail": "chugg@southerndesigns.net",
+						"event": "10/11/202110:23:25PM4132556734660-2-2SentToStage'PowdercoatLoading'bychugg@southerndesigns.netformanufacturerSOUTHERN_DESIGNS.",
+						"companyCode": "SOUTHERN_DESIGNS",
+						"orderId": null
+					}
+				]
+			}]
+		}
+	},
+	"shipping": {
+		"address": {
+			"zip": "24520",
+			"city": "Alton",
+			"name": "Bonnie Crihfield",
+			"phone": null,
+			"company": "",
+			"country": "UnitedStates",
+			"address1": "2228WilkinsRd",
+			"address2": "",
+			"latitude": 36.5940766,
+			"province": "Virginia",
+			"last_name": "Crihfield",
+			"longitude": -79.048161,
+			"first_name": "Bonnie",
+			"country_code": "US",
+			"province_code": "VA",
+			"address_residential_indicator": "yes"
+		},
+		"shipments": [{
+			"label_id": "se-7764944",
+			"status": "completed",
+			"shipment_id": "se-21748537",
+			"ship_date": "2020-04-17T00:00:00Z",
+			"created_at": "2020-04-17T16:22:20.9879673Z",
+			"user": "Brad Ferch",
+			"shipment_cost": {
+				"currency": "usd",
+				"amount": 10.1900
+			},
+			"insurance_cost": {
+				"currency": "usd",
+				"amount": 0.0
+			},
+			"charge_event": "carrier_default",
+			"tracking_number": "9405511899564088683810",
+			"is_return_label": false,
+			"rma_number": null,
+			"is_international": false,
+			"batch_id": "",
+			"carrier_id": "se-169349",
+			"service_code": "usps_priority_mail",
+			"package_code": "package",
+			"voided": false,
+			"voided_at": null,
+			"label_format": "pdf",
+			"label_layout": "4x6",
+			"trackable": true,
+			"label_image_id": null,
+			"carrier_code": "stamps_com",
+			"tracking_status": "in_transit",
+			"label_download": {
+				"pdf": "https://api.shipengine.com/v1/downloads/10/XNGDhq7uZ0CAEt5LOnCxIg/label-7764944.pdf",
+				"png": "https://api.shipengine.com/v1/downloads/10/XNGDhq7uZ0CAEt5LOnCxIg/label-7764944.png",
+				"zpl": "https://api.shipengine.com/v1/downloads/10/XNGDhq7uZ0CAEt5LOnCxIg/label-7764944.zpl",
+				"href": "https://api.shipengine.com/v1/downloads/10/XNGDhq7uZ0CAEt5LOnCxIg/label-7764944.pdf"
+			},
+			"form_download": null,
+			"insurance_claim": null,
+			"packages": [{
+				"package_code": "package",
+				"weight": {
+					"value": 20.00,
+					"unit": "ounce"
+				},
+				"dimensions": {
+					"unit": "inch",
+					"length": 0.0,
+					"width": 0.0,
+					"height": 0.0
+				},
+				"insured_value": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"tracking_number": "9405511899564088683810",
+				"label_messages": {
+					"reference1": null,
+					"reference2": null,
+					"reference3": null
+				},
+				"external_package_id": null
+			}]
+		}]
+	},
+	"transactions": [{
+		"type": {
+			"affiliate": {
+				"email": "ronnie@gmail.com",
+				"affiliate_cost": "2.50",
+				"payment_status": "unpaid",
+				"transaction_id": "123456789",
+				"transaction_status": "unsettled",
+				"created_at": "2020-04-17T16:22:20.9879673Z",
+				"updated_at": "2021-10-05T22:41:49.547Z"
+			},
+			"merchant": {
+				"email": "Storenew03@gmail.com",
+				"shop_origin": "metal-glamour.myshopify.com",
+				"production_cost": "25.00",
+				"payment_status": "paid",
+				"transaction_id": "123456789",
+				"transaction_status": "settled",
+				"created_at": "2020-04-17T16:22:20.9879673Z",
+				"updated_at": "2021-10-05T22:41:49.547Z"
+			},
+			"3pm": {
+				"email": "Storenew03@gmail.com",
+				"shop_origin": "metal-glamour.myshopify.com",
+				"parts": {
+					"123456-1-1": 20.00,
+					"quantity": 2
+				},
+				"production_cost": "25.00",
+				"payment_status": "paid",
+				"transaction_id": "123456789",
+				"transaction_status": "settled",
+				"created_at": "2020-04-17T16:22:20.9879673Z",
+				"updated_at": "2021-10-05T22:41:49.547Z"
+			}
+		}
+	}],
+	"event_log": {
+		"sampleOrderEventLog": "Sample"
+	},
+	"created_at": "2021-10-05T22:41:49.547Z",
+	"updated_at": "2021-10-05T22:41:49.547Z"
+}
